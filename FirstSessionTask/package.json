@@ -1,0 +1,16 @@
+{
+  "name": "firstsetiontask",
+  "version": "1.0.0",
+  "description": "Http connection and APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "type": "module"
+}
